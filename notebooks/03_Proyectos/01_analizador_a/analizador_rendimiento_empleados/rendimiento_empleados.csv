@@ -1,0 +1,501 @@
+id_empleado,departamento,score_rendimiento
+E001,Finanzas,77
+E002,Soporte,91
+E003,Marketing,94
+E004,Soporte,71
+E005,Marketing,67
+E006,Recursos Humanos,83
+E007,Marketing,95
+E008,Soporte,91
+E009,Marketing,74
+E010,Recursos Humanos,84
+E011,Soporte,67
+E012,Recursos Humanos,89
+E013,Recursos Humanos,68
+E014,Ventas,66
+E015,Finanzas,85
+E016,Recursos Humanos,78
+E017,Marketing,78
+E018,Ventas,80
+E019,Ventas,95
+E020,Recursos Humanos,71
+E021,Finanzas,94
+E022,Finanzas,89
+E023,Marketing,66
+E024,Soporte,69
+E025,Finanzas,98
+E026,Soporte,67
+E027,Recursos Humanos,65
+E028,Marketing,78
+E029,Soporte,91
+E030,Ventas,70
+E031,Marketing,70
+E032,Finanzas,82
+E033,Finanzas,61
+E034,Recursos Humanos,68
+E035,Ingeniería,95
+E036,Soporte,84
+E037,Soporte,62
+E038,Ventas,75
+E039,Ingeniería,82
+E040,Finanzas,72
+E041,Finanzas,80
+E042,Ingeniería,92
+E043,Finanzas,77
+E044,Recursos Humanos,81
+E045,Finanzas,77
+E046,Marketing,78
+E047,Recursos Humanos,83
+E048,Marketing,62
+E049,Marketing,63
+E050,Soporte,91
+E051,Ventas,95
+E052,Ventas,96
+E053,Ingeniería,92
+E054,Finanzas,100
+E055,Finanzas,92
+E056,Ingeniería,91
+E057,Soporte,79
+E058,Recursos Humanos,82
+E059,Finanzas,81
+E060,Ingeniería,65
+E061,Finanzas,66
+E062,Finanzas,91
+E063,Finanzas,85
+E064,Finanzas,85
+E065,Ventas,70
+E066,Finanzas,91
+E067,Recursos Humanos,86
+E068,Ingeniería,98
+E069,Ventas,72
+E070,Recursos Humanos,75
+E071,Soporte,61
+E072,Ingeniería,73
+E073,Ventas,68
+E074,Recursos Humanos,90
+E075,Recursos Humanos,83
+E076,Finanzas,79
+E077,Ingeniería,82
+E078,Ingeniería,64
+E079,Soporte,91
+E080,Marketing,73
+E081,Ingeniería,66
+E082,Ventas,98
+E083,Recursos Humanos,66
+E084,Marketing,87
+E085,Recursos Humanos,95
+E086,Ingeniería,97
+E087,Ventas,60
+E088,Finanzas,64
+E089,Marketing,86
+E090,Finanzas,92
+E091,Marketing,64
+E092,Ingeniería,70
+E093,Ingeniería,75
+E094,Recursos Humanos,78
+E095,Soporte,73
+E096,Recursos Humanos,95
+E097,Ingeniería,71
+E098,Ventas,72
+E099,Recursos Humanos,77
+E100,Ventas,64
+E101,Ingeniería,83
+E102,Ingeniería,89
+E103,Finanzas,90
+E104,Finanzas,65
+E105,Ingeniería,70
+E106,Ventas,90
+E107,Recursos Humanos,77
+E108,Ingeniería,86
+E109,Ventas,83
+E110,Finanzas,97
+E111,Ingeniería,83
+E112,Ingeniería,78
+E113,Ingeniería,95
+E114,Soporte,96
+E115,Recursos Humanos,68
+E116,Soporte,96
+E117,Ventas,68
+E118,Ventas,83
+E119,Marketing,93
+E120,Recursos Humanos,99
+E121,Ingeniería,99
+E122,Ingeniería,92
+E123,Marketing,63
+E124,Soporte,72
+E125,Ventas,61
+E126,Soporte,76
+E127,Ingeniería,68
+E128,Ingeniería,99
+E129,Ingeniería,74
+E130,Soporte,92
+E131,Soporte,79
+E132,Ventas,77
+E133,Soporte,95
+E134,Ingeniería,63
+E135,Marketing,60
+E136,Ventas,94
+E137,Marketing,83
+E138,Recursos Humanos,78
+E139,Ventas,90
+E140,Marketing,79
+E141,Ingeniería,78
+E142,Soporte,61
+E143,Ingeniería,66
+E144,Recursos Humanos,68
+E145,Recursos Humanos,79
+E146,Ventas,83
+E147,Recursos Humanos,84
+E148,Finanzas,99
+E149,Finanzas,96
+E150,Recursos Humanos,84
+E151,Marketing,66
+E152,Soporte,88
+E153,Ingeniería,61
+E154,Finanzas,80
+E155,Finanzas,87
+E156,Ventas,83
+E157,Ventas,83
+E158,Finanzas,92
+E159,Ventas,68
+E160,Soporte,79
+E161,Soporte,67
+E162,Finanzas,89
+E163,Ventas,90
+E164,Marketing,62
+E165,Soporte,99
+E166,Marketing,88
+E167,Recursos Humanos,87
+E168,Marketing,93
+E169,Ingeniería,60
+E170,Soporte,66
+E171,Recursos Humanos,71
+E172,Ventas,63
+E173,Ventas,95
+E174,Ingeniería,85
+E175,Marketing,99
+E176,Ventas,85
+E177,Marketing,60
+E178,Ingeniería,86
+E179,Recursos Humanos,64
+E180,Soporte,84
+E181,Finanzas,83
+E182,Marketing,83
+E183,Recursos Humanos,82
+E184,Ventas,66
+E185,Finanzas,99
+E186,Recursos Humanos,95
+E187,Finanzas,73
+E188,Marketing,81
+E189,Ventas,82
+E190,Ingeniería,83
+E191,Finanzas,99
+E192,Recursos Humanos,63
+E193,Ingeniería,97
+E194,Marketing,81
+E195,Ventas,94
+E196,Finanzas,89
+E197,Marketing,72
+E198,Soporte,95
+E199,Soporte,95
+E200,Recursos Humanos,61
+E201,Ventas,69
+E202,Ventas,68
+E203,Ingeniería,96
+E204,Marketing,71
+E205,Ventas,78
+E206,Soporte,71
+E207,Ingeniería,98
+E208,Marketing,86
+E209,Ventas,66
+E210,Recursos Humanos,84
+E211,Finanzas,89
+E212,Soporte,93
+E213,Recursos Humanos,60
+E214,Recursos Humanos,97
+E215,Soporte,78
+E216,Soporte,85
+E217,Ventas,79
+E218,Soporte,81
+E219,Finanzas,92
+E220,Ingeniería,77
+E221,Ingeniería,80
+E222,Marketing,97
+E223,Finanzas,76
+E224,Soporte,97
+E225,Marketing,72
+E226,Ventas,92
+E227,Soporte,96
+E228,Ingeniería,76
+E229,Finanzas,64
+E230,Marketing,60
+E231,Ingeniería,99
+E232,Ventas,79
+E233,Marketing,63
+E234,Ventas,75
+E235,Recursos Humanos,70
+E236,Ventas,63
+E237,Ingeniería,76
+E238,Ingeniería,92
+E239,Finanzas,71
+E240,Ingeniería,93
+E241,Finanzas,93
+E242,Finanzas,95
+E243,Finanzas,65
+E244,Recursos Humanos,92
+E245,Ventas,87
+E246,Ingeniería,77
+E247,Finanzas,63
+E248,Ventas,77
+E249,Finanzas,72
+E250,Ingeniería,83
+E251,Finanzas,94
+E252,Ingeniería,60
+E253,Marketing,79
+E254,Recursos Humanos,69
+E255,Ingeniería,80
+E256,Ingeniería,90
+E257,Ingeniería,92
+E258,Recursos Humanos,89
+E259,Recursos Humanos,100
+E260,Marketing,92
+E261,Marketing,67
+E262,Ingeniería,62
+E263,Marketing,85
+E264,Ventas,62
+E265,Soporte,62
+E266,Ingeniería,63
+E267,Soporte,91
+E268,Ventas,75
+E269,Ingeniería,85
+E270,Finanzas,93
+E271,Soporte,66
+E272,Ventas,81
+E273,Soporte,75
+E274,Marketing,81
+E275,Ventas,74
+E276,Soporte,91
+E277,Recursos Humanos,74
+E278,Finanzas,76
+E279,Ventas,83
+E280,Ventas,85
+E281,Soporte,83
+E282,Soporte,64
+E283,Ventas,60
+E284,Finanzas,80
+E285,Ventas,65
+E286,Soporte,83
+E287,Ingeniería,72
+E288,Recursos Humanos,99
+E289,Marketing,71
+E290,Soporte,92
+E291,Recursos Humanos,76
+E292,Recursos Humanos,90
+E293,Marketing,83
+E294,Ventas,70
+E295,Finanzas,70
+E296,Marketing,93
+E297,Recursos Humanos,63
+E298,Soporte,75
+E299,Recursos Humanos,74
+E300,Ingeniería,88
+E301,Ingeniería,80
+E302,Soporte,89
+E303,Marketing,69
+E304,Ingeniería,73
+E305,Soporte,75
+E306,Ventas,97
+E307,Marketing,75
+E308,Soporte,99
+E309,Finanzas,67
+E310,Soporte,91
+E311,Soporte,73
+E312,Ventas,80
+E313,Marketing,75
+E314,Ingeniería,60
+E315,Ingeniería,93
+E316,Marketing,70
+E317,Recursos Humanos,97
+E318,Ingeniería,73
+E319,Ventas,88
+E320,Finanzas,76
+E321,Finanzas,83
+E322,Soporte,84
+E323,Ingeniería,83
+E324,Ingeniería,74
+E325,Marketing,100
+E326,Finanzas,86
+E327,Ventas,100
+E328,Recursos Humanos,81
+E329,Finanzas,79
+E330,Ingeniería,79
+E331,Soporte,84
+E332,Soporte,99
+E333,Recursos Humanos,64
+E334,Ingeniería,95
+E335,Finanzas,100
+E336,Finanzas,62
+E337,Marketing,61
+E338,Soporte,71
+E339,Finanzas,78
+E340,Soporte,74
+E341,Marketing,69
+E342,Soporte,88
+E343,Ingeniería,97
+E344,Ingeniería,73
+E345,Soporte,81
+E346,Soporte,65
+E347,Recursos Humanos,62
+E348,Soporte,88
+E349,Recursos Humanos,70
+E350,Soporte,78
+E351,Soporte,60
+E352,Finanzas,89
+E353,Ventas,93
+E354,Soporte,91
+E355,Marketing,74
+E356,Finanzas,71
+E357,Ventas,81
+E358,Soporte,66
+E359,Soporte,81
+E360,Recursos Humanos,67
+E361,Ventas,81
+E362,Ventas,82
+E363,Ingeniería,72
+E364,Recursos Humanos,89
+E365,Marketing,62
+E366,Ventas,70
+E367,Recursos Humanos,64
+E368,Finanzas,92
+E369,Soporte,89
+E370,Recursos Humanos,65
+E371,Soporte,92
+E372,Marketing,88
+E373,Soporte,60
+E374,Ventas,86
+E375,Finanzas,82
+E376,Recursos Humanos,76
+E377,Finanzas,67
+E378,Marketing,82
+E379,Soporte,83
+E380,Ingeniería,84
+E381,Ventas,93
+E382,Recursos Humanos,72
+E383,Ingeniería,61
+E384,Recursos Humanos,93
+E385,Ingeniería,85
+E386,Soporte,68
+E387,Recursos Humanos,86
+E388,Marketing,66
+E389,Marketing,88
+E390,Finanzas,81
+E391,Ventas,86
+E392,Ingeniería,82
+E393,Ventas,81
+E394,Ingeniería,79
+E395,Finanzas,71
+E396,Marketing,63
+E397,Marketing,64
+E398,Soporte,85
+E399,Soporte,86
+E400,Ingeniería,69
+E401,Marketing,68
+E402,Finanzas,90
+E403,Ingeniería,90
+E404,Marketing,94
+E405,Finanzas,85
+E406,Recursos Humanos,68
+E407,Ventas,72
+E408,Finanzas,70
+E409,Marketing,92
+E410,Soporte,71
+E411,Ventas,76
+E412,Marketing,99
+E413,Soporte,74
+E414,Soporte,86
+E415,Recursos Humanos,72
+E416,Finanzas,94
+E417,Ingeniería,100
+E418,Recursos Humanos,67
+E419,Soporte,79
+E420,Soporte,92
+E421,Marketing,84
+E422,Finanzas,93
+E423,Marketing,92
+E424,Marketing,91
+E425,Ingeniería,72
+E426,Soporte,93
+E427,Finanzas,98
+E428,Marketing,67
+E429,Marketing,92
+E430,Ingeniería,76
+E431,Ventas,95
+E432,Ingeniería,86
+E433,Ingeniería,93
+E434,Recursos Humanos,90
+E435,Ventas,88
+E436,Ingeniería,64
+E437,Finanzas,97
+E438,Recursos Humanos,72
+E439,Recursos Humanos,65
+E440,Finanzas,77
+E441,Ingeniería,89
+E442,Ingeniería,89
+E443,Finanzas,92
+E444,Soporte,64
+E445,Ingeniería,64
+E446,Ventas,89
+E447,Marketing,99
+E448,Finanzas,91
+E449,Ventas,62
+E450,Marketing,90
+E451,Marketing,90
+E452,Soporte,61
+E453,Ingeniería,68
+E454,Marketing,78
+E455,Ingeniería,83
+E456,Recursos Humanos,60
+E457,Ventas,94
+E458,Finanzas,79
+E459,Finanzas,98
+E460,Ingeniería,64
+E461,Ventas,61
+E462,Soporte,70
+E463,Soporte,67
+E464,Recursos Humanos,96
+E465,Ventas,69
+E466,Recursos Humanos,66
+E467,Finanzas,62
+E468,Soporte,89
+E469,Marketing,70
+E470,Finanzas,69
+E471,Ventas,78
+E472,Soporte,75
+E473,Ingeniería,60
+E474,Ventas,85
+E475,Ingeniería,80
+E476,Finanzas,68
+E477,Finanzas,72
+E478,Recursos Humanos,75
+E479,Finanzas,95
+E480,Marketing,71
+E481,Soporte,90
+E482,Ingeniería,68
+E483,Soporte,84
+E484,Marketing,85
+E485,Ingeniería,94
+E486,Ventas,80
+E487,Recursos Humanos,68
+E488,Ingeniería,72
+E489,Ingeniería,61
+E490,Ventas,65
+E491,Finanzas,71
+E492,Soporte,98
+E493,Soporte,62
+E494,Marketing,63
+E495,Finanzas,83
+E496,Ingeniería,74
+E497,Recursos Humanos,100
+E498,Ingeniería,80
+E499,Soporte,100
+E500,Marketing,95
