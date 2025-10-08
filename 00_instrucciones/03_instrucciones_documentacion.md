@@ -43,8 +43,7 @@ Por favor lee las conversaciones del proyecto:
 2. [Sintaxis](#sintaxis)
 3. [Ejemplos Básicos](#ejemplos-básicos)
 4. [Casos de Uso en Data Science](#casos-de-uso-en-data-science)
-5. [Ejercicios Prácticos](#ejercicios-prácticos)
-6. [Recursos Adicionales](#recursos-adicionales)
+5. [Recursos Adicionales](#recursos-adicionales)
 
 ---
 
@@ -247,17 +246,10 @@ Cada documentación DEBE cumplir con:
 - [ ] Los casos deben ser diferentes entre sí
 - [ ] Deben relacionarse con análisis de datos, limpieza, visualización o ML
 
-### ✓ Ejercicios (EXACTAMENTE 5)
-- [ ] Ejercicio 1: Nivel básico
-- [ ] Ejercicio 2: Nivel básico-intermedio
-- [ ] Ejercicio 3: Nivel intermedio
-- [ ] Ejercicio 4: Nivel intermedio-avanzado
-- [ ] Ejercicio 5: Nivel desafío (combina conceptos)
-- [ ] Cada ejercicio debe tener:
-  - Enunciado claro
-  - Pistas (2-3)
-  - Solución en bloque `<details>`
-  - Explicación paso a paso
+### ✓ Ejercicios (OMITIDOS TEMPORALMENTE)
+- [ ] **NO generar ejercicios durante el estudio de temas individuales**
+- [ ] Los ejercicios se acumularán para una sesión práctica al final del módulo
+- [ ] Enfoque: Teoría + Sintaxis + Casos de Uso únicamente
 
 ### ✓ Estructura general
 - [ ] Título y metadatos del curso
@@ -403,7 +395,7 @@ Necesito documentar el tema de [TEMA]. Aquí está el resumen de Platzi:
 Por favor genera la documentación completa siguiendo TODOS los requisitos:
 - Formato celda por celda para .ipynb
 - 2 casos de uso en data science
-- 5 ejercicios con progresión de dificultad
+- SIN ejercicios (se harán al final del módulo)
 
 Asegúrate de incluir todo el checklist obligatorio.
 ```
@@ -417,7 +409,7 @@ Asegúrate de incluir todo el checklist obligatorio.
 | Elemento | Cantidad | Obligatorio |
 |----------|----------|-------------|
 | Casos de uso en data science | 2 | ✅ Sí |
-| Ejercicios prácticos | 5 | ✅ Sí |
+| Ejercicios prácticos | 0 | ❌ No (al final del módulo) |
 | Bloques de código copiables | Variable | ✅ Sí |
 | Sección de conceptos | 1 | ✅ Sí |
 | Sección de sintaxis | 1 | ✅ Sí |
