@@ -10,6 +10,12 @@ class OnlineRetailManager:
 
     def __init__(self, working_dir='.'):
         self.working_dir = Path(working_dir)
+        # Rutas de carpetas de datos
+        self.raw_data_dir = self.working_dir /'data'/'raw'
+        self.processed_data_dir = self.working_dir / 'data' / 'processed'
+        # Asegurar que existen las carpetas
+        self.raw_data_dir.mkdir(parents=True, exist_ok=True)
+        self.processed_data_dir.mkdir(parents=True, exist_ok=True)
         self.csv_path = None
         self.df = None
         self.df_clean = None
@@ -69,7 +75,8 @@ class OnlineRetailManager:
             if target_file:
                 # Copiar a la carpeta de trabajo
                 local_filename = f"online_retail.{target_file.suffix[1:]}"  # .csv o .xlsx
-                local_path = self.working_dir / local_filename
+                local_path = self.raw_data_dir / local_filename
+                print(f"\n📋 Copiando archivo a carpeta raw...")
 
                 print(f"\n📋 Copiando archivo a carpeta actual...")
                 print(f"  Desde: {target_file}")
@@ -100,7 +107,7 @@ class OnlineRetailManager:
         patterns = ['*retail*.csv', '*retail*.xlsx', '*.csv', '*.xlsx']
 
         for pattern in patterns:
-            files = list(self.working_dir.glob(pattern))
+            files = list(self.raw_data_dir.glob(pattern))
             # Excluir archivos sintéticos y limpios
             files = [f for f in files if 'synthetic' not in f.name.lower()
                     and 'clean' not in f.name.lower()]
@@ -237,7 +244,7 @@ class OnlineRetailManager:
         df = pd.DataFrame(data)
 
         # Guardar como CSV
-        synthetic_path = self.working_dir / 'online_retail_synthetic.csv'
+        synthetic_path = self.raw_data_dir / 'online_retail_synthetic.csv'
         df.to_csv(synthetic_path, index=False)
         print(f"💾 Dataset sintético guardado: {synthetic_path.name}")
 
@@ -361,9 +368,12 @@ if __name__ == "__main__":
 
         # Guardar versión limpia
         if df_clean is not None:
-            output_file = 'online_retail_clean.csv'
-            df_clean.to_csv(output_file, index=False)
-            print(f"\n💾 Dataset limpio guardado como: {output_file}")
+            output_file_name = 'online_retail_clean.csv'
+
+            output_path = manager.processed_data_dir / output_file_name
+
+            df_clean.to_csv(output_path, index=False)
+            print(f"\n💾 Dataset limpio guardado como: {output_path}")
 
             # Análisis inicial con Pandas
             print("\n" + "="*70)
