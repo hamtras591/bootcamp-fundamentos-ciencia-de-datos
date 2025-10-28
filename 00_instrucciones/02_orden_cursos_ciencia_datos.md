@@ -51,10 +51,10 @@
 
 ### Fase 2.2: Python + Cálculo (Actual)
 
-| # | Curso | Duración | Estado     | Fecha | Notas |
-|---|---|---|------------|---|---|
-| 8 | Curso de Python para Ciencia de Datos | 5h | Completado | 02-03/10/2025 | Foco: pandas, groupby, CSV |
-| 9 | Curso Básico de Cálculo Diferencial | 1h | En Curso   | 05/10/2025 | Sábado - Conceptos básicos |
+| # | Curso | Duración | Estado     | Fecha | Notas                                |
+|---|---|---|------------|---|--------------------------------------|
+| 8 | Curso de Python para Ciencia de Datos | 5h | Completado | 02-03/10/2025 | Foco: pandas, groupby, CSV           |
+| 9 | Curso Básico de Cálculo Diferencial | 1h | Completado   | 05/10/2025 | Foco: derivasd, max, min, gradientes |
 
 ### Fase 2.3: Funciones y Estadística (Semana 1)
 
